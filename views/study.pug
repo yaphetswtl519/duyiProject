@@ -7,8 +7,6 @@ block content
 				p 零基础教学
 				p 渡一百分百保证毕业学员就业年薪10w+，达不到全额退还学费
 				span
-			//- .duyi-study-poster-img-wrapper
-				img(src="http://p6alxlphh.bkt.clouddn.com/study-banner.png")
 		section.duyi-study-curriculum
 			.duyi-study-curriculum-web
 				.duyi-study-curriculum-web-title.duyi-study-curriculum-title
@@ -27,34 +25,11 @@ block content
 										p #{lesson.title}
 										div
 											span 讲师：#{lesson.teacher}
-											span 好评#{lesson.per}
-				//- .duyi-study-curriculum-web-detail-wrapper
-				//- 	each lesson, ind in lessons
-				//- 		ul.duyi-study-curriculum-web-detail(id=`webslide${ind}`)
-				//- 			each item, index in lesson
-				//- 				li
-				//- 					.duyi-study-curriculum-web-detail-img
-				//- 					p #{item.intro}
-				//- 					p
-				//- 						span.duyi-study-curriculum-author #{item.author}				
-
-			//- .duyi-study-curriculum-java
-			//- 	.duyi-study-curriculum-java-title.duyi-study-curriculum-title.container JAVA课程
-			//- 	.duyi-study-curriculum-java-detail-wrapper
-			//- 		each lesson, ind in lessons
-			//- 			ul.duyi-study-curriculum-java-detail(id=`javaslide${ind}`)
-			//- 				each item, index in lesson
-			//- 					li
-			//- 						.duyi-study-curriculum-java-detail-img(style="background-color: #bbb;")
-			//- 						p #{item.intro}
-			//- 						p
-			//- 							span.duyi-study-curriculum-author #{item.author}
+											span 好评度#{lesson.per}
 			.duyi-study-curriculum-java.duyi-dom-translate
 				p UPDATING
 				P JAVA课程
 				p 敬请期待
-								
-
 		section.duyi-study-exercises
 			.duyi-study-exercises-title.container.duyi-dom-translate
 				p 水平测试套题

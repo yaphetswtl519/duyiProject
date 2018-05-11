@@ -28,22 +28,6 @@ html {
             text-decoration: none;
         }
         @font-face {
-            font-family: 'PingFangH';
-            src: url('../font/PingFang Heavy.ttf');
-        }
-        @font-face {
-            font-family: 'PingFangM';
-            src: url('../font/PingFang Medium.ttf');
-        }
-        @font-face {
-            font-family: 'PingFangL';
-            src: url('../font/PingFang Light.ttf');
-        }
-        @font-face {
-            font-family: 'PingFangB';
-            src: url('../font/PingFang Bold.ttf');
-        }
-        @font-face {
             font-family: 'STX';
             src: url('../font/STXIHEI.ttf');
         }
@@ -79,11 +63,10 @@ html {
             height: 90px;
             font-size: 16px;
             z-index: 9999;
-            border-bottom: 1px solid transparent;
             background: #222;
             transition: all .8s;
             .duyi-header-box {
-                margin: 0 48px 0 200px;
+                margin: 0 48px 0 380px;
                 .duyi-logo {
                     display: inline-block;
                     float: left;
@@ -258,6 +241,7 @@ html {
                     p:nth-child(1) {
                         padding-bottom: 10px;
                         font-family: STX;
+                        font-size: 16px;
                     }
                     p:nth-child(2),
                     p:nth-child(3),
@@ -266,17 +250,14 @@ html {
                     }
                 }
                 .duyi-footer-categories {
-                    font-family: STX;                    
-                    p {
-                        font-size: 16px;
-                    }
+                    font-family: STX;   
+                    font-size: 16px;
+                    color: #fff;              
                     ul {
                         li {
-                            font-size: 16px;
                             display: block;
                             height: 36px;
                             line-height: 36px;
-                            color: #e9e9e9;
                         }
                     }
                 }
@@ -287,7 +268,7 @@ html {
                         height: 140px;
                     }
                     p {
-                        margin-top: 20px;
+                        margin-top: 25px;
                     } 
                 }
             }
@@ -300,7 +281,6 @@ html {
                 color: #fff;
                 background-color: #111;
                 p {
-                    opacity: .6;
                     margin: 0;
                 }
             }
@@ -318,7 +298,7 @@ html {
                         margin-right: 0;
                     }
                     .active {
-                        background-color: #f4ca38;
+                        background-color: #be926f;
                     }
                 }
                 .carousel-inner {
@@ -350,7 +330,7 @@ html {
                 }
             }
             .duyi-student-show {
-                padding-top: 60px;
+                padding-top: 118px;
                 padding-bottom: 90px;
                 position: relative;
                 .duyi-student-title {
@@ -358,7 +338,7 @@ html {
                     text-align: center;
                     p:nth-child(1) {
                         font-size: 40px;
-                        color: #232323;
+                        color: #222;
                         margin-bottom: 5px;
                     }
                     span {
@@ -370,7 +350,7 @@ html {
                     }
                     p:nth-child(2) {
                         font-size: 20px;
-                        color: #232323;
+                        color: #666;
                     }
                 }
                 .duyi-student-photo {
@@ -456,7 +436,7 @@ html {
                 background-color: #222;
                 padding-top: 322px;
                 padding-bottom: 180px;
-                margin-bottom: 124px;
+                margin-bottom: 120px;
                 .duyi-tencent-certification {
                     background: url(../images/certification.png) no-repeat 250px 0;
                     color: #fffefe;
@@ -549,15 +529,14 @@ html {
                 margin-bottom: 146px;
                 .duyi-teacher-title {
                     text-align: center;
-                    p {
-                        color: #232323;
-                    }
                     p:nth-child(1) {
+                        color: #222;
                         font-size: 40px;
                         margin-bottom: 5px;
                     }
                     p:nth-child(2) {
                         font-size: 20px;
+                        color: #666;
                     }
                     span {
                         display: block;
@@ -626,7 +605,7 @@ html {
                                     font-family: PingFangM;
                                     font-size: 12px;
                                     line-height: 18px;
-                                    color: #222;
+                                    color: #666;
                                 }
                             }
                             .duyi-teacher-info:before,
@@ -673,13 +652,14 @@ html {
                 margin-bottom: 120px;
                 .duyi-cooperation-title {
                     text-align: center;
-                    color: #232323;
                     p:nth-child(1) {
                         font-size: 40px;
-                        margin-bottom: 5px;
+                        margin-bottom: 10px;
+                        color: #222;
                     }
                     p:nth-child(2) {
                         font-size: 20px;
+                        color: #666;
                     }
                     span {
                         display: block;

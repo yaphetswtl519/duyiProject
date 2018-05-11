@@ -58,13 +58,6 @@
                 "salary": "22W"
             },
             {
-                "name": "王天立",
-                "sex": "男",
-                "school": "黑龙江大学",
-                "company": "美团点评",
-                "salary": "22.5W"
-            },
-            {
                 "name": "于华健",
                 "sex": "男",
                 "school": "哈尔滨理工大学",
@@ -208,122 +201,122 @@
                 "name": "王可心",
                 "sex": "女",
                 "school": "哈尔滨理工大学",
+                "company": "百度外卖",
+                "salary": "20.4W"
+            },
+            {
+                "name": "徐昊",
+                "sex": "男",
+                "school": "黑龙江大学",
                 "company": "百度外卖",
                 "salary": "20.4W"
             }
         ],
         [
             {
-                "name": "刘飞翔",
+                "name": "孙艺璇",
+                "sex": "女",
+                "school": "黑龙江大学",
+                "company": "百度外卖",
+                "salary": "20.4W"
+            },
+            {
+                "name": "李金梅",
+                "sex": "女",
+                "school": "黑龙江大学",
+                "company": "百度网搜",
+                "salary": "19W"
+            },
+            {
+                "name": "仝腾",
                 "sex": "男",
                 "school": "哈尔滨理工大学",
-                "company": "今日头条",
-                "salary": "41.5W"
+                "company": "同程旅游",
+                "salary": "19W"
             },
             {
-                "name": "陈志煌",
+                "name": "李淑君",
+                "sex": "女",
+                "school": "哈尔滨理工大学",
+                "company": "滴滴出行",
+                "salary": "19W"
+            },
+            {
+                "name": "许馨",
+                "sex": "女",
+                "school": "哈尔滨理工大学",
+                "company": "搜狐",
+                "salary": "19.8W"
+            },
+            {
+                "name": "亢明悦",
+                "sex": "女",
+                "school": "黑龙江大学",
+                "company": "百度",
+                "salary": "19.6W"
+            },
+            {
+                "name": "董亚杰",
                 "sex": "男",
                 "school": "哈尔滨理工大学",
-                "company": "WAP",
-                "salary": "40W"
+                "company": "百度",
+                "salary": "19.5W"
             },
             {
-                "name": "张家玮",
-                "sex": "女",
-                "school": "哈尔滨理工大学",
-                "company": "今日头条",
-                "salary": "30+W"
-            },
-            {
-                "name": "杨奇",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "钱站",
-                "salary": "28.8W"
-            },
-            {
-                "name": "李敏",
-                "sex": "女",
-                "school": "燕山大学",
-                "company": "钱站",
-                "salary": "28.8W"
-            },
-            {
-                "name": "孔繁丽",
-                "sex": "女",
-                "school": "哈尔滨理工大学",
-                "company": "美团",
-                "salary": "25.6W"
-            },
-            {
-                "name": "段然",
+                "name": "王子昂",
                 "sex": "男",
                 "school": "黑龙江大学",
                 "company": "滴滴出行",
-                "salary": "25.5W"
+                "salary": "19.5W"
             },
             {
-                "name": "周鑫",
+                "name": "黄健东",
                 "sex": "男",
                 "school": "哈尔滨理工大学",
-                "company": "迅雷",
-                "salary": "22W"
+                "company": "百度",
+                "salary": "19.5W"
             },
             {
-                "name": "王天立",
+                "name": "李俊峰",
+                "sex": "男",
+                "school": "哈尔滨理工大学",
+                "company": "水滴互助",
+                "salary": "19.2W"
+            },
+            {
+                "name": "徐岩",
+                "sex": "男",
+                "school": "哈尔滨理工大学",
+                "company": "渡鸦科技",
+                "salary": "18W"
+            },
+            {
+                "name": "刘洋",
+                "sex": "女",
+                "school": "哈尔滨理工大学",
+                "company": "饿了么",
+                "salary": "18W"
+            },
+            {
+                "name": "彭堉林",
+                "sex": "男",
+                "school": "东北林业大学",
+                "company": "腾讯应用宝",
+                "salary": "18W"
+            },
+            {
+                "name": "范欣欣",
+                "sex": "女",
+                "school": "哈尔滨理工大学",
+                "company": "链家",
+                "salary": "18W"
+            },
+            {
+                "name": "韩贵封",
                 "sex": "男",
                 "school": "黑龙江大学",
-                "company": "美团点评",
-                "salary": "22.5W"
-            },
-            {
-                "name": "于华健",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "阿里",
-                "salary": "22.5W"
-            },
-            {
-                "name": "丛培森",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "美团",
-                "salary": "22.5W"
-            },
-            {
-                "name": "董美琪",
-                "sex": "女",
-                "school": "哈尔滨理工大学",
-                "company": "滴滴出行",
-                "salary": "22.5W"
-            },
-            {
-                "name": "陈冠潮",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "滴滴出行",
-                "salary": "22.5W"
-            },
-            {
-                "name": "尤硕",
-                "sex": "女",
-                "school": "黑龙江大学",
-                "company": "美团",
-                "salary": "22.5W"
-            },
-            {
-                "name": "安海琴",
-                "sex": "女",
-                "school": "哈尔滨理工大学",
-                "company": "滴滴出行",
-                "salary": "22.5W"
-            },
-            {
-                "name": "李嘉",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "滴滴出行",
-                "salary": "22.5W"
+                "company": "黑湖",
+                "salary": "18W"
             },
             {
                 "name": "江潮飞",
@@ -333,307 +326,230 @@
                 "salary": "22.5W"
             },
             {
-                "name": "徐健",
+                "name": "关艳",
+                "sex": "女",
+                "school": "哈尔滨理工大学",
+                "company": "京东",
+                "salary": "18.2W"
+            },
+            {
+                "name": "曹帆",
+                "sex": "女",
+                "school": "哈尔滨理工大学",
+                "company": "便利蜂",
+                "salary": "18.2W"
+            },
+            {
+                "name": "安雷",
                 "sex": "男",
                 "school": "黑龙江大学",
-                "company": "阿里巴巴",
-                "salary": "22.4W"
+                "company": "便利蜂",
+                "salary": "18.2W"
             },
             {
-                "name": "刘培",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "美团",
-                "salary": "21W"
-            },
-            {
-                "name": "崔天龙",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "ofo共享单车",
-                "salary": "21W"
-            },
-            {
-                "name": "马睿",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "ofo共享单车",
-                "salary": "21W"
-            },
-            {
-                "name": "张洋",
-                "sex": "女",
-                "school": "哈尔滨理工大学",
-                "company": "ofo共享单车",
-                "salary": "21W"
-            },
-            {
-                "name": "白嘉硕",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "唱吧",
-                "salary": "21W"
-            },
-            {
-                "name": "胡安琪",
-                "sex": "女",
-                "school": "哈尔滨理工大学",
-                "company": "知乎",
-                "salary": "21.75w"
-            },
-            {
-                "name": "杨露",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "百度",
-                "salary": "20W"
-            },
-            {
-                "name": "刘兆秋",
+                "name": "郑麗夏",
                 "sex": "女",
                 "school": "黑龙江大学",
-                "company": "百度外卖",
-                "salary": "20W"
+                "company": "便利蜂",
+                "salary": "18.2W"
             },
             {
-                "name": "徐秀峰",
+                "name": "汪强",
+                "sex": "男",
+                "school": "黑龙江大学",
+                "company": "滴滴出行",
+                "salary": "18.1W"
+            },
+            {
+                "name": "王晗",
                 "sex": "男",
                 "school": "哈尔滨理工大学",
-                "company": "百度",
-                "salary": "20W"
+                "company": "猎聘网",
+                "salary": "17W"
             },
             {
-                "name": "贺子蔚",
-                "sex": "女",
-                "school": "哈尔滨理工大学",
-                "company": "小米",
-                "salary": "20.7W"
-            },
-            {
-                "name": "邵德奇",
+                "name": "王震",
                 "sex": "男",
                 "school": "哈尔滨理工大学",
-                "company": "美团点评",
-                "salary": "20.5W"
+                "company": "58同城",
+                "salary": "17w"
             },
             {
-                "name": "王可心",
+                "name": "李天慈",
+                "sex": "女",
+                "school": "黑龙江大学",
+                "company": "金山云网络",
+                "salary": "17.6W"
+            },
+            {
+                "name": "李延磊",
+                "sex": "男",
+                "school": "哈尔滨理工大学",
+                "company": "去哪儿网",
+                "salary": "17.6W"
+            },
+            {
+                "name": "薛颖颖",
                 "sex": "女",
                 "school": "哈尔滨理工大学",
-                "company": "百度外卖",
-                "salary": "20.4W"
+                "company": "去哪儿网",
+                "salary": "17.6W"
+            },
+            {
+                "name": "夏志尧",
+                "sex": "男",
+                "school": "哈尔滨理工大学",
+                "company": "北京百家互联",
+                "salary": "17.5W"
+            },
+            {
+                "name": "李嘉辉",
+                "sex": "男",
+                "school": "东北林业大学",
+                "company": "百度糯米",
+                "salary": "17.5W"
+            },
+            {
+                "name": "吕泽磊",
+                "sex": "男",
+                "school": "哈尔滨理工大学",
+                "company": "深信服",
+                "salary": "16W"
+            },
+            {
+                "name": "刘立铭",
+                "sex": "男",
+                "school": "哈尔滨理工大学",
+                "company": "36氪媒体",
+                "salary": "16W"
             }
         ],
         [
             {
-                "name": "刘飞翔",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "今日头条",
-                "salary": "41.5W"
-            },
-            {
-                "name": "陈志煌",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "WAP",
-                "salary": "40W"
-            },
-            {
-                "name": "张家玮",
+                "name": "于婷",
                 "sex": "女",
                 "school": "哈尔滨理工大学",
-                "company": "今日头条",
-                "salary": "30+W"
+                "company": "太和音乐",
+                "salary": "16W"
             },
             {
-                "name": "杨奇",
+                "name": "陈田",
+                "sex": "女",
+                "school": "哈尔滨理工大学",
+                "company": "百度地图",
+                "salary": "16W"
+            },
+            {
+                "name": "张程禹",
                 "sex": "男",
                 "school": "哈尔滨理工大学",
-                "company": "钱站",
-                "salary": "28.8W"
+                "company": "人人网",
+                "salary": "16.8W"
             },
             {
-                "name": "李敏",
-                "sex": "女",
-                "school": "燕山大学",
-                "company": "钱站",
-                "salary": "28.8W"
+                "name": "李英奇",
+                "sex": "男",
+                "school": "哈尔滨理工大学",
+                "company": "猎聘网",
+                "salary": "16.8W"
+            },
+            {
+                "name": "汪雪珂",
+                "sex": "男",
+                "school": "哈尔滨理工大学",
+                "company": "美图公司",
+                "salary": "16.8W"
             },
             {
                 "name": "孔繁丽",
                 "sex": "女",
                 "school": "哈尔滨理工大学",
                 "company": "美团",
-                "salary": "25.6W"
+                "salary": "16.8W"
             },
             {
-                "name": "段然",
-                "sex": "男",
-                "school": "黑龙江大学",
-                "company": "滴滴出行",
-                "salary": "25.5W"
-            },
-            {
-                "name": "周鑫",
+                "name": "毕金风",
                 "sex": "男",
                 "school": "哈尔滨理工大学",
-                "company": "迅雷",
-                "salary": "22W"
+                "company": "人人网",
+                "salary": "16.8W"
             },
             {
-                "name": "王天立",
-                "sex": "男",
-                "school": "黑龙江大学",
-                "company": "美团点评",
-                "salary": "22.5W"
-            },
-            {
-                "name": "于华健",
+                "name": "冯睿",
                 "sex": "男",
                 "school": "哈尔滨理工大学",
-                "company": "阿里",
-                "salary": "22.5W"
-            },
-            {
-                "name": "丛培森",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "美团",
-                "salary": "22.5W"
-            },
-            {
-                "name": "董美琪",
-                "sex": "女",
-                "school": "哈尔滨理工大学",
-                "company": "滴滴出行",
-                "salary": "22.5W"
-            },
-            {
-                "name": "陈冠潮",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "滴滴出行",
-                "salary": "22.5W"
-            },
-            {
-                "name": "尤硕",
-                "sex": "女",
-                "school": "黑龙江大学",
-                "company": "美团",
-                "salary": "22.5W"
-            },
-            {
-                "name": "安海琴",
-                "sex": "女",
-                "school": "哈尔滨理工大学",
-                "company": "滴滴出行",
-                "salary": "22.5W"
-            },
-            {
-                "name": "李嘉",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "滴滴出行",
-                "salary": "22.5W"
-            },
-            {
-                "name": "江潮飞",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "滴滴出行",
-                "salary": "22.5W"
-            },
-            {
-                "name": "徐健",
-                "sex": "男",
-                "school": "黑龙江大学",
                 "company": "阿里巴巴",
-                "salary": "22.4W"
+                "salary": "16.8W"
             },
             {
-                "name": "刘培",
+                "name": "于占超",
                 "sex": "男",
                 "school": "哈尔滨理工大学",
-                "company": "美团",
-                "salary": "21W"
+                "company": "好未来",
+                "salary": "16.8W"
             },
             {
-                "name": "崔天龙",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "ofo共享单车",
-                "salary": "21W"
-            },
-            {
-                "name": "马睿",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "ofo共享单车",
-                "salary": "21W"
-            },
-            {
-                "name": "张洋",
-                "sex": "女",
-                "school": "哈尔滨理工大学",
-                "company": "ofo共享单车",
-                "salary": "21W"
-            },
-            {
-                "name": "白嘉硕",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "唱吧",
-                "salary": "21W"
-            },
-            {
-                "name": "胡安琪",
-                "sex": "女",
-                "school": "哈尔滨理工大学",
-                "company": "知乎",
-                "salary": "21.75w"
-            },
-            {
-                "name": "杨露",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "百度",
-                "salary": "20W"
-            },
-            {
-                "name": "刘兆秋",
+                "name": "王唯",
                 "sex": "女",
                 "school": "黑龙江大学",
-                "company": "百度外卖",
-                "salary": "20W"
+                "company": "一起作业网",
+                "salary": "16.5W"
             },
             {
-                "name": "徐秀峰",
-                "sex": "男",
-                "school": "哈尔滨理工大学",
-                "company": "百度",
-                "salary": "20W"
-            },
-            {
-                "name": "贺子蔚",
+                "name": "韩雪梅",
                 "sex": "女",
                 "school": "哈尔滨理工大学",
-                "company": "小米",
-                "salary": "20.7W"
+                "company": "青牛软件",
+                "salary": "15W"
             },
             {
-                "name": "邵德奇",
+                "name": "纪涛",
                 "sex": "男",
                 "school": "哈尔滨理工大学",
-                "company": "美团点评",
-                "salary": "20.5W"
+                "company": "北京永洪商智",
+                "salary": "15.5W"
             },
             {
-                "name": "王可心",
+                "name": "闫冰",
+                "sex": "男",
+                "school": "哈尔滨理工大学",
+                "company": "北京首信科技",
+                "salary": "13W"
+            },
+            {
+                "name": "汪洋",
+                "sex": "男",
+                "school": "哈尔滨理工大学",
+                "company": "锐捷网络股份",
+                "salary": "13W"
+            },
+            {
+                "name": "韩冬",
+                "sex": "男",
+                "school": "哈尔滨理工大学",
+                "company": "快手",
+                "salary": "10W"
+            },
+            {
+                "name": "赵鹏",
+                "sex": "男",
+                "school": "哈尔滨理工大学",
+                "company": "蓝曼科技",
+                "salary": "10W"
+            },
+            {
+                "name": "王跃函",
                 "sex": "女",
                 "school": "哈尔滨理工大学",
-                "company": "百度外卖",
-                "salary": "20.4W"
+                "company": "腾讯无线",
+                "salary": "10W"
+            },
+            {
+                "name": "张彦平",
+                "sex": "女",
+                "school": "哈尔滨理工大学",
+                "company": "恒天金服技术",
+                "salary": "10W"
             }
         ]
     ],

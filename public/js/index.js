@@ -26,9 +26,3 @@ window.onload = () => {
         indexInit();
     }
 };
-
-// window.onresize = () => {
-//     if (window.location.pathname === '/study') {
-//         studyInit.changeImageRatio();
-//     }
-// };
