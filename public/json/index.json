@@ -150,52 +150,54 @@
             {
                 "imgUrl": "http://p6alxlphh.bkt.clouddn.com/teacher/%E5%A7%AC%E6%88%902.png",
                 "name": "姬成",
-                "job": "渡一教育首席讲师",
-                "detail": "现任渡一信息技术开发有限公司 CEO，哈尔滨托特教育科技有限公司CEO，Findream CTO，北美求职君特约撰稿人，iTutor Group技术顾问，北京丰立鼎盛投资有限公司投资顾问，原阿里巴巴 UC 移动事业群购物搜索项目负责人，微软 GMCT 金牌讲师，兼任多所高校校企联合生涯规划师， 曾累计在各高校开展100余场生涯规划讲座、累计培养数百名国际一线互联网精英。"
+                "job": "Charlie Ji",
+                "detail": "现任渡一信息技术开发有限公司CEO、托特教育科技有限公司CEO，北京丰立鼎盛投资有限公司投资顾问，iTutor Group商务顾问，原阿里巴巴UC移动事业群购物搜索项目负责人，兼任多所高校校企联合生涯规划师，曾累计在各高校开展100余场生涯规划讲座，累计培养数百名国际一线互联网精英。"
             },
             {
                 "imgUrl": "http://p6alxlphh.bkt.clouddn.com/teacher/%E9%99%88%E6%80%9D%E5%BD%A4.png",
                 "name": "陈思彤",
-                "job": "渡一教育特级讲师",
-                "detail": "现任渡一信息技术开发有限公司副经理，哈尔滨托特教育科技有限公司CTO， 原百度自然语言处理事业群 T6 级高级工程师，精通 Web 全栈、Java和 C++等技术，对设计模式，框架源码有很深的理解！" 
+                "job": "Sitong Chen",
+                "detail": "渡一教育特级讲师，现任渡一信息技术开发有限公司副经理，哈尔滨托特教育科技有限公司CTO， 原百度自然语言处理事业群 T6 级高级工程师，精通 Web 全栈、Java和 C++等技术，对设计模式，框架源码有很深的理解！" 
             },
-            {
-                "imgUrl": "http://p6alxlphh.bkt.clouddn.com/teacher/%E5%AD%94%E7%B9%81%E4%B8%BD.png",
-                "name": "孔繁丽",
-                "job": "渡一教育讲师",
-                "detail": ""
-            },
-            {
-                "imgUrl": "http://p6alxlphh.bkt.clouddn.com/teacher/%E4%BA%8E%E5%AE%BE.jpg",
-                "name": "于宾",
-                "job": "在职高级前端工程师",
-                "detail": "58同城招聘事业群、在职高级前端工程师"
-            }
-        ],
-        [
             {
                 "imgUrl": "http://p6alxlphh.bkt.clouddn.com/teacher/%E5%B8%B8%E7%AB%8B%E5%B3%B0.jpg",
                 "name": "常立峰",
-                "job": "渡一教育首席讲师",
+                "job": "Lifeng Chang",
                 "detail": "渡一教育高级讲师，美团商家广告推广部项目经理，美团 p7 工程师，原 58 赶集集团工程师，精通 web 全栈、数据库、C、 C++、Python、Android 和 javaEE 等技术。深厚的编程功底，与项目经验为你的工作面试保驾护航。"
             },
             {
                 "imgUrl": "http://p6alxlphh.bkt.clouddn.com/teacher/%E5%B0%B9%E6%96%87%E6%9D%BE4.png",
+                
                 "name": "尹文松",
-                "job": "渡一教育高级讲师",
-                "detail": "滴滴出行平台技术部高级前端工程师，深入研究javascript，掌握丰富的实战编程经验，对不断更新的前端技术有独到的见解。教学严谨，致力于成为最优秀的知识传播者。"
-            },
+                "job": "Wensong Yin",
+                "detail": "渡一教育高级讲师，滴滴出行平台技术部高级前端工程师，深入研究javascript，掌握丰富的实战编程经验，对不断更新的前端技术有独到的见解。教学严谨，致力于成为最优秀的知识传播者。"
+            }
+        ],
+        [
             {
+
                 "imgUrl": "http://p6alxlphh.bkt.clouddn.com/teacher/%E4%B8%81%E6%B0%B8%E5%BF%97.png",
                 "name": "丁永志",
-                "job": "渡一教育高级讲师",
-                "detail": "搜狐产品技术部资深web前端工程师，搜狐首页前端项目负责人。从事Web开发多年，对各种Web开发技术（包括前端和后端）都有非常深入的研究，经验极其丰富.不仅对javascript理论知识有深入理解，此外，对node.js,vue.js,react.js,vuex,redux,Weex,mongo 等方面积累了大量实战经验。"
+                "job": "Yongzhi Ding",
+                "detail": "渡一教育高级讲师，搜狐产品技术部资深web前端工程师，搜狐首页前端项目负责人。从事Web开发多年，对各种Web开发技术（包括前端和后端）都有非常深入的研究，经验极其丰富.不仅对javascript理论知识有深入理解，此外，对node.js,vue.js,react.js,vuex,redux,Weex,mongo 等方面积累了大量实战经验。"
             },
             {
                 "imgUrl": "http://p6alxlphh.bkt.clouddn.com/teacher/%E8%91%A3%E7%BE%8E%E7%90%AA.jpg",
                 "name": "董美琪",
-                "job": "渡一教育首席讲师",
-                "detail": "现任渡一信息技术开发有限公司 CEO，哈尔滨托特教育科技有限公司CEO，Findream CTO，北美求职君特约撰稿人，iTutor Group技"
+                "job": "Meiqi Dong",
+                "detail": "渡一教育高级讲师，原滴滴出行基础平台部软件工程师,数据平台主要前端负责人，在职期间曾一个人肩负整个团队的前端开发工作，实战经验丰富，对底层javascript有深入的研究，熟悉前端自动化构建工具的应用，对vue，vuex，react redux等流行的技术有独特的见解，有自己的授课风格，责任心超强，立志打造中国顶尖前端学员。"
+            },
+            {
+                "imgUrl": "http://p6alxlphh.bkt.clouddn.com/teacher/%E8%96%9B%E6%A5%A0.png",
+                "name": "薛楠",
+                "job": "Nan Xue",
+                "detail": "渡一教育高级讲师，从事web前端开发多年 曾在北京艺龙旅行网 指点通网络科技有限公司等互联网公司工作，自主带队开发多款大型项目，深入研究前端主流技术栈，潜心研究IT行业发展前景，理论基础扎实，实战经验丰富 讲课幽默风趣。"
+            },
+            {
+                "imgUrl": "http://p6alxlphh.bkt.clouddn.com/teacher/%E4%BA%8E%E5%AE%BE.jpg",
+                "name": "于宾",
+                "job": "Bin Yu",
+                "detail": "渡一教育高级讲师，58赶集集团高级工程师，长期在一线互联网企业任职，对主流前端框架颇有造诣，科班出身对软件工程的认识更是技高一筹，身为讲师在掌握深入的技术的同时拥有幽默风趣的表达能力。"
             }
         ]
     ],

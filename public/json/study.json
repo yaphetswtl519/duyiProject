@@ -1,89 +1,89 @@
 {
     "lessons": [
         {
-            "title": "【淘宝商城项目实战开发】",
+            "title": "【淘宝商城项目课】",
             "img": "http://p6alxlphh.bkt.clouddn.com/weblesson/1.png",
-            "teacher": "尹文松",
-            "per": "100%",
+            "teacher": "淘宝商城项目实战开发",
+            "per": "免费学习",
             "link": "https://ke.qq.com/course/282464?tuin=31cf0205"
         },
         {
             "title": "【Web前端开发高级工程师就业班第五期】",
             "img": "http://p6alxlphh.bkt.clouddn.com/weblesson/2.png",
-            "teacher": "",
-            "per": "100%",
+            "teacher": "腾讯平台史上，最全面，最权威的Web前端就业课程",
+            "per": "付费学习",
             "link": "https://ke.qq.com/course/288769?tuin=31cf0205"
         },
         {
             "title": "【Web前端开发高级工程师进阶班第五期】",
             "img": "http://p6alxlphh.bkt.clouddn.com/weblesson/3.png",
-            "teacher": "",
-            "per": "100%",
+            "teacher": "互联网大牛的求学之路",
+            "per": "付费学习",
             "link": "https://ke.qq.com/course/288781?tuin=31cf0205"
         },
         {
             "title": "【Web前端开发之JavaScript精英课堂】",
             "img": "http://p6alxlphh.bkt.clouddn.com/weblesson/4.png",
-            "teacher": "",
-            "per": "98%",
+            "teacher": "一个把JavaScript已经当作母语的人在这里发表一下内心的想法....",
+            "per": "免费学习",
             "link": "https://ke.qq.com/course/231577?tuin=31cf0205"
         },
         {
             "title": "【Web前端开发之HTML+CSS精英课堂】",
             "img": "http://p6alxlphh.bkt.clouddn.com/weblesson/5.png",
-            "teacher": "姬成",
-            "per": "99%",
+            "teacher": "0基础不需要学历，课程由浅入深！阿里巴巴高级工程师亲授，保证你能做出任何你看到过的静态网页",
+            "per": "免费学习",
             "link": "https://ke.qq.com/course/231570?tuin=31cf0205"
         },
         {
             "title": "【原生JS扫雷游戏实战开发】",
             "img": "http://p6alxlphh.bkt.clouddn.com/weblesson/6.png",
-            "teacher": "陈思彤",
-            "per": "100%",
+            "teacher": "运用原生JS，完成扫雷游戏实战开发",
+            "per": "免费学习",
             "link": "https://ke.qq.com/course/277224?tuin=31cf0205"
         },
         {
             "title": "【原生JS贪吃蛇游戏实战开发】",
             "img": "http://p6alxlphh.bkt.clouddn.com/weblesson/7.png",
-            "teacher": "陈思彤",
-            "per": "89%",
+            "teacher": "运用原生JS，完成贪吃蛇游戏实战开发",
+            "per": "免费学习",
             "link": "https://ke.qq.com/course/276537?tuin=31cf0205"
         }
     ],
     "exercises": [
         {
             "link": "https://www.101test.com/cand/index?paperId=Q5SR8K",
-            "img": "http://p6alxlphh.bkt.clouddn.com/K1.png",
-            "title": "【渡一教育，入学评估】",
-            "describe": "sadada",
+            "img": "http://p6alxlphh.bkt.clouddn.com/T1.png",
+            "title": "【渡一教育  入学必测】",
+            "describe": "知己知彼，百战不殆",
             "star": [2, 2, 2, 2]
         },
         {
             "link": "https://www.101test.com/cand/index?paperId=YR2HBL",
-            "img": "http://p6alxlphh.bkt.clouddn.com/K2.png",
-            "title": "【渡一教育开班测试题A卷】",
-            "describe": "sadad",
+            "img": "http://p6alxlphh.bkt.clouddn.com/T2.png",
+            "title": "【就业班学习 基础测试（上）】",
+            "describe": "测试你对于公益课知识点的掌握情况",
             "star": [0, 2, 2, 2]
         },
         {
             "link": "https://www.101test.com/cand/index?paperId=U8DPCL",
-            "img": "http://p6alxlphh.bkt.clouddn.com/K3.png",
-            "title": "【渡一教育开班测试题B卷】",
-            "describe": "sadada",
+            "img": "http://p6alxlphh.bkt.clouddn.com/T3.png",
+            "title": "【就业班学习 基础测试（下）】",
+            "describe": "测试你对于公益课知识点的掌握情况",
             "star": [2, 2, 2, 2]
         },
         {
             "link": "https://kaoba.101test.com/cand/index?redirect=0&paperId=ADC3MO",
-            "img": "http://p6alxlphh.bkt.clouddn.com/K4.png",
-            "title": "【渡一教育就业班入门测试题】",
-            "describe": "sadad",
+            "img": "http://p6alxlphh.bkt.clouddn.com/T4.png",
+            "title": "【就业班课程--基础知识点测试】",
+            "describe": "测试你是否需要报名学习就业班课程 ",
             "star": [0, 1, 2, 2]
         },
         {
             "link": "https://www.101test.com/cand/index?paperId=663ZRM",
-            "img": "http://p6alxlphh.bkt.clouddn.com/K5.png",
-            "title": "【渡一教育进阶班入门测试题】",
-            "describe": "asda",
+            "img": "http://p6alxlphh.bkt.clouddn.com/T5.png",
+            "title": "【进阶班课程---基础知识点测试】",
+            "describe": "测试你是否需要报名学习进阶班课程",
             "star": [0, 0, 2, 2]
         }
     ]

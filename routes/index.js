@@ -40,7 +40,6 @@ router.get('/student', (req, res, next) => {
       title: 'DUYI',
       employmentList: studentData.employmentList,
       activityList: studentData.activityList,
-      productionList: studentData.productionList,
       campusList: studentData.campusList
     });
   });

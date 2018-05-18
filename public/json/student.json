@@ -555,50 +555,29 @@
     ],
     "activityList": [
         {
-            "img": "http://p6alxlphh.bkt.clouddn.com/activity/activity1.png",
-            "top": "sadadadnkashndkiahikdhailapskdapakpdakpk",
-            "bottom": "素质拓展活动"
+            "img": "http://p6alxlphh.bkt.clouddn.com/activity/T1.png",
+            "title": "【渡一文化节】",
+            "detail": "在这里，我们共同享受“文化互联”的冲击，也共同感受“激荡飞扬”的青春，在追忆似水的日子里，共同走过，不负韶华"
         },
         {
-            "img": "http://p6alxlphh.bkt.clouddn.com/activity/activity1.png",
-            "top": "sadadadnkashndkiahikdhailapskdapakpdakpk",
-            "bottom": "素质拓展活动"
+            "img": "http://p6alxlphh.bkt.clouddn.com/activity/T2.png",
+            "title": "【包场看电影，我们不一样】",
+            "detail": "看电影这么爽的事，当然要和志同道合的人一起~体贴、团结、有品位、很大气的渡一，神秘包场看电影体质将会无限期延续，来啊，青春就要不一young！"
         },
         {
-            "img": "http://p6alxlphh.bkt.clouddn.com/activity/activity1.png",
-            "top": "sadadadnkashndkiahikdhailapskdapakpdakpk",
-            "bottom": "素质拓展活动"
+            "img": "http://p6alxlphh.bkt.clouddn.com/activity/T3.png",
+            "title": "【奔跑吧，小鲜肉们】",
+            "detail": "在渡一，我们曾经并肩作战，挥洒出了青春中最热血的模样，在渡一，我们曾经风雨共担，泼墨挥毫间战胜了不够坚定的自己，未来的路还很长，我们一起奔跑吧，小鲜肉们~"
         },
         {
-            "img": "http://p6alxlphh.bkt.clouddn.com/activity/activity1.png",
-            "top": "sadadadnkashndkiahikdhailapskdapakpdakpk",
-            "bottom": "素质拓展活动"
-        }
-    ],
-    "productionList": [
-        {
-            "img": "http://p6alxlphh.bkt.clouddn.com/activity/activity1.png",
-            "title": "1",
-            "fir": "sadadakhdakihdiahi",
-            "sec": "ashdiauhdiuahidhaidhsaiuhisdhaih"
+            "img": "http://p6alxlphh.bkt.clouddn.com/activity/T4.png",
+            "title": "【2017年会 新起点 新跨越】",
+            "detail": "基本不严肃，处处有温馨的渡一年会，在这里，谁也搞不懂闲聊的跳跃是如何起承转合的，谁也不知道下一个冒出来的节目和话题是什么，这些看似无用的交流更显得闲适舒服，有知识点，有笑点，当然还有新起点~"
         },
         {
-            "img": "http://p6alxlphh.bkt.clouddn.com/activity/activity1.png",
-            "title": "2",
-            "fir": "sadadakhdakihdiahi",
-            "sec": "ashdiauhdiuahidhaidhsaiuhisdhaih"
-        },
-        {
-            "img": "http://p6alxlphh.bkt.clouddn.com/activity/activity1.png",
-            "title": "3",
-            "fir": "sadadakhdakihdiahi",
-            "sec": "ashdiauhdiuahidhaidhsaiuhisdhaih"
-        },
-        {
-            "img": "http://p6alxlphh.bkt.clouddn.com/activity/activity1.png",
-            "title": "4",
-            "fir": "sadadakhdakihdiahi",
-            "sec": "ashdiauhdiuahidhaidhsaiuhisdhaih"
+            "img": "http://p6alxlphh.bkt.clouddn.com/activity/T5.png",
+            "title": "【渡一篮球赛，了解一下】",
+            "detail": "时间带来了磨练，毅力带来了考验。成长路上不仅要有一腔奋不顾身的孤勇，还需要三五知己的扶持相助，这不只是球场，也是赛场，青春不止，热血还燃，为了更好的明天，你的知识和体魄都准备好了吗？"
         }
     ],
     "campusList": [

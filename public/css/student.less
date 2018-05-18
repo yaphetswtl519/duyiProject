@@ -11,13 +11,12 @@
             }
             span {
                 display: block;
-                margin: 55px auto 0;
+                margin: 75px auto 0;
                 width: 20px;
                 height: 2px;
                 background: #be926f;
             }
-            p:nth-child(2),
-            p:nth-child(3) {
+            p:nth-child(2) {
                 font-size: 20px;
                 color: #666;
             }
@@ -33,18 +32,17 @@
                 }
             }
             .duyi-student-employment-arrow {
-                width: 100%;
-                height: 17px;
+                text-align: center;
                 margin-top: 100px;
-                background: url(../images/arrow.png) no-repeat 50% 0 / contain;
-                animation: arrowMove 1s cubic-bezier(.57,-.04,.58,1) infinite both;
+                font-size: 16px;
+                color: #666;
             }
         }
         .duyi-student-employment-content {
             width: 100%;
             height: 890px;
             background-color: #222;
-            margin-top: 38px;
+            margin-top: 48px;
             .duyi-student-employment-content-wrapper {
                 margin: 0 auto;
                 height: 100%;
@@ -108,7 +106,7 @@
         }
     }
     .duyi-student-describe {
-        margin-bottom: 160px;
+        margin-bottom: 100px;
         .duyi-student-describe-item {
             height: 890px;
             width: 100%;
@@ -219,16 +217,16 @@
                     .duyi-student-story-right-font {
                         position: absolute;
                         bottom: 0;
-                        p:nth-child(1) {
-                            font-size: 40px;
-                            color: #222;                        
+                        color: #666;                                              
+                        .duyi-student-story-right-font-title {
+                            font-size: 32px;
                         }
-                        p:nth-child(2) {
-                            color: #666;
+                        div:nth-child(2) {
                             font-size: 16px;
-                            margin-top: 16px;
-                            margin-bottom: 0;
-                            line-height: 30px;
+                            line-height: 26px;
+                            p {
+                                margin-bottom: 0;
+                            }
                         }
                     }
                 }
@@ -278,213 +276,62 @@
             }
         }
         .duyi-student-activity {
-            position: relative;
-            .duyi-student-activity-left {
-                width: 40%;
-            }
-            .duyi-student-activity-right {
-                width: 60%;
-                background-color: #e6e6e6;
-            }
-            .duyi-student-activity-active {
-                background-color: #6eb6c7!important;
-            }
-            .duyi-student-activity-ul {
-                position: absolute;
-                bottom: 160px;
-                right: 5%;
-                z-index: 2;
-                li {
-                    display: inline-block;
-                    width: 14px;
-                    height: 14px;
-                    background-color: #9b9b9b;
-                    float: left;
-                    margin-right: 14px;
-                    
+            .duyi-student-activity-title {
+                text-align: center;
+                margin-top: 168px;
+                p:nth-child(1) {
+                    font-size: 40px;
+                    color: #222;
+                    margin-bottom: 7px;
                 }
-            }
-            #duyi-student-activity-wrapper {
-                position: absolute;
-                width: 1300px;
-                height: 680px;
-                top: 132px;
-                left: 50%;
-                margin-left: -650px; 
-                .duyi-student-activity-item {
-                    .duyi-student-activity-photo {
-                        float: left;
-                        overflow: hidden;
-                        img {
-                            width: 1022px;
-                            transition: all .4s ease 0s
-                        }
-                    }
-                    .duyi-student-activity-photo:hover img {
-                        transform: scale(1.1);
-                    }
-                    .duyi-student-activity-right-wrapper {
-                        width: 278px;
-                        float: right;
-                        height: 680px;
-                        color: #232323;
-                        padding-left: 80px;
-                        position: relative;
-                        .duyi-student-activity-right-top {
-                            width: 100%;
-                            font-size: 18px;
-                            line-height: 30px;
-                            word-wrap: break-word;
-                            font-family: PingFangM;
-                        }
-                        .duyi-student-activity-right-bottom {
-                            position: absolute;
-                            bottom: 0;
-                            font-family: PingFangB;
-                            p {
-                                font-size: 48px;
-                            }
-                        }
-                    }
+                p:nth-child(2) {
+                    font-size: 20px;
+                    color: #666;
                 }
-            }
-        }
-    }
-    .duyi-student-production {
-        .duyi-student-production-wrapper {
-            width: 1300px;
-            height: 896px;
-            margin: 0 auto;
-            overflow: hidden;
-            #duyi-student-production-ps-wrapper {
-                width: 1300px;
-                height: 680px;
-                position: relative;
-                .duyi-student-production-row {
-                    width: 100%;
-                    .duyi-student-production-left {
-                        float: left;
-                        overflow: hidden;
-                        img {
-                            width: 1022px;
-                            transition: all .4s ease 0s;
-                        }
-                    }
-                    .duyi-student-production-left:hover img {
-                        transform: scale(1.1);
-                    }
-                    .duyi-student-production-right {
-                        float: right;
-                        width: 278px;
-                        height: 680px;
-                        padding-left: 50px;
-                        .duyi-student-production-right-title {
-                            margin-top: 50px;
-                            font-size: 48px;
-                            font-family: PingFangB;
-                        }
-                        div {
-                            padding-left: 28px;
-                            position: relative;
-                            margin-top: 370px;
-                            font-family: PingFangM;
-                            p {
-                                font-size: 14px;
-                                color: #898989;
-                                line-height: 18px;
-                            }
-                        }
-                        div:before {
-                            content: "";
-                            display: block;
-                            position: absolute;
-                            left: 0;
-                            top: 0;
-                            width: 3px;
-                            height: 100%;
-                            background-color: #a1a1a1;
-                        }
-                    }
-                }
-                .duyi-student-production-row:after {
-                    content: '';
+                span {
                     display: block;
-                    clear: both;
+                    margin: 35px auto 0;
+                    width: 20px;
+                    height: 2px;
+                    background: #be926f;
                 }
             }
-            .duyi-student-production-dial {
-                .duyi-student-production-dial-wrapper {
-                    width: 284px;
-                    height: 152px;
-                    margin: 64px auto 0;
-                    background: url(../images/circle.png) no-repeat;
+            .duyi-student-activity-content {
+                position: relative;
+                overflow: hidden;
+                padding-left: 117px;
+                margin-top: 64px;
+                cursor: pointer;
+                height: 635px;
+                padding-top: 5px;
+                .duyi-student-activity-scroll-wrapper {
+                    white-space: nowrap;
                     position: relative;
-                    z-index: 1;
-                    cursor: pointer;
-                    div {
-                        background: url(../images/circle-line.png) no-repeat;
-                        width: 244px;
-                        height: 243px;
-                        position: absolute;
-                        top: 21px;
-                        left: 20px;
-                        z-index: 2;
-                        transform: rotateZ(0deg);
-                    }
-                    .duyi-student-production-black-line {
-                        display: block;
-                        position: absolute;
-                        width: 244px;
-                        height: 243px;
-                        z-index: 2;
-                        top: 21px;
-                        left: 20px;
-                        background: url(../images/black-line.png) no-repeat;
-                    }
-                    .duyi-student-production-tri-top,
-                    .duyi-student-production-tri-bottom {
-                        height: 8px;
+                    width: 7530px;
+                    .duyi-student-activity-scroll-item {
                         display: inline-block;
-                        position: absolute;
-                        left: 50%;
-                        transform: translateX(-50%);
-                    }
-                    .duyi-student-production-tri-top {
-                        width: 15px;
-                        top: 51px;
-                        background: url(../images/tritop.png) no-repeat;
-                    }
-                    .duyi-student-production-tri-bottom {
-                        width: 16px;
-                        background: url(../images/tribottom.png) no-repeat;
-                    }
-                    .duyi-student-production-hand {
-                        display: inline-block;
-                        margin: 0 auto;
-                        position: absolute;
-                        top: 93px;
-                        left: 50%;
-                        animation: handRotate 4s cubic-bezier(.57,-.04,.58,1) infinite both;
-                        img {
-                            width: 91px;
-                            height: 97px;
-                        }
-                    }
-                    @keyframes handRotate {
-                        0% {
-                            transform: translateX(-50%) rotateZ(0deg);
-                        }
-                        25% {
-                            transform: translateX(-50%) rotateZ(-30deg);
-                        }
-                        50% {
-                            transform: translateX(-50%) rotateZ(0deg);
-                        }
-                        75% {
-                            transform: translateX(-50%) rotateZ(30deg);
-                        }
-                        100% {
-                            transform: translateX(-50%) rotateZ(0);
+                        margin-right: 206px;
+                        width: 1300px;
+                        padding: 46px 38px;
+                        box-shadow: 2px 2px 12px #999;
+                        border-radius: 10px;
+                        .duyi-student-activity-scroll-item-font {
+                            display: inline-block;
+                            margin-left: 50px;
+                            position: absolute;
+                            bottom: 46px;
+                            .duyi-student-activity-scroll-item-title {
+                                color: #222;
+                                font-size: 28px;
+                                text-indent: -13px;
+                            }
+                            .duyi-student-activity-scroll-item-detail {
+                                color: #666;
+                                font-size: 16px;
+                                line-height: 26px;
+                                white-space: normal;
+                                width: 360px;
+                            }
                         }
                     }
                 }

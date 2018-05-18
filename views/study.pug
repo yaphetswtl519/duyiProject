@@ -4,13 +4,13 @@ block content
 	.duyi-content
 		section.duyi-study-poster
 			.duyi-study-poster-title.container
-				p 零基础教学
-				p 渡一百分百保证毕业学员就业年薪10w+，达不到全额退还学费
+				p 从0到1的蜕变
+				p 在渡一，你只需要4个月的时间，我们承诺：达不到一线城市10w+年薪，全额退款	
 				span
 		section.duyi-study-curriculum
 			.duyi-study-curriculum-web
 				.duyi-study-curriculum-web-title.duyi-study-curriculum-title
-					p 前端课程
+					p web前端课程
 					div
 						img(src="http://p6alxlphh.bkt.clouddn.com/hand.png")
 					p The front course
@@ -24,15 +24,18 @@ block content
 									.duyi-study-curriculum-web-scroll-info
 										p #{lesson.title}
 										div
-											span 讲师：#{lesson.teacher}
-											span 好评度#{lesson.per}
+											span #{lesson.teacher}
+											if lesson.per == '免费学习'
+												img(src="http://p6alxlphh.bkt.clouddn.com/study/%E5%85%8D%E8%B4%B9%E5%AD%A6%E4%B9%A0.png")
+											else
+												img(src="http://p6alxlphh.bkt.clouddn.com/study/%E4%BB%98%E8%B4%B9%E5%AD%A6%E4%B9%A0.png")
 			.duyi-study-curriculum-java.duyi-dom-translate
-				p UPDATING
-				P JAVA课程
-				p 敬请期待
+				p COMING SOON
+				P 更用心的筹备 只为了让你学到更优质的课程
+				p JAVA课程
 		section.duyi-study-exercises
 			.duyi-study-exercises-title.container.duyi-dom-translate
-				p 水平测试套题
+				p 基础测试题
 				div
 					img(src="http://p6alxlphh.bkt.clouddn.com/hand.png")
 				p Drag for more
@@ -57,24 +60,31 @@ block content
 												span(style=`background:url(http://p6alxlphh.bkt.clouddn.com/star.png) no-repeat`)
 		section.duyi-study-consult
 			.duyi-study-consult-title.container.duyi-dom-translate
-				p 咨询课程
-				p COUNSELING COURSES
+				p 任何疑问，请联系我们
+				p Counseling courses
 				span
 			.duyi-study-consult-way-row.duyi-dom-translate
 				.duyi-study-consult-way-item.duyi-study-consult-way-wechat
 					.duyi-study-consult-way-item-wrapper
 						.duyi-study-consult-way-wechat-photo
 						.duyi-study-consult-way-wechat-qrcode
+						.duyi-study-consult-way-wechat-detail
+							div 帮你量身定制课程
+							div 掌握高薪技术
 					p WeChat
 				.duyi-study-consult-way-item.duyi-study-consult-way-phone
 					.duyi-study-consult-way-item-wrapper
 						.duyi-study-consult-way-phone-photo
 						.duyi-study-consult-way-phone-number
-							p +86 123 4563 7896
-							p +86 173 4523 7556
+							p 400-678-6077
+						.duyi-study-consult-way-phone-detail
+							div 倾听你的需求
+							div 帮你成为更好的自己
 					p Phone
 				.duyi-study-consult-way-item.duyi-study-consult-way-online
 					.duyi-study-consult-way-item-wrapper
 						.duyi-study-consult-way-online-photo
 						a(href="http://wpa.qq.com/msgrd?v=3&uin=124797531&site=qq&menu=yes").duyi-study-consult-way-online-a
+						.duyi-study-consult-way-online-detail
+							div 来听听老师怎么说
 					p Online

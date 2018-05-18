@@ -23,4 +23,8 @@ export default function () {
         scrollX: true,
         scrollY: false
     });
+    new IScroll('.duyi-student-activity-content', {
+        scrollX: true,
+        scrollY: false
+    });
 }
