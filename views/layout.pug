@@ -5,9 +5,19 @@ html(lang='en')
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
     meta(http-equiv='X-UA-Compatible', content='ie=edge')
     title= title
-    block scripts
+    meta(name="keywords", content=keywords)
+    meta(name="description", content=description)
+    link(rel="stylesheet", href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css")
+    link(rel="stylesheet/less", type="text/css", href="http://p926bp4cr.bkt.clouddn.com/index.less")
+    link(rel="stylesheet/less", type="text/css", href="http://p926bp4cr.bkt.clouddn.com/study.less")
+    link(rel="stylesheet/less", type="text/css", href="http://p926bp4cr.bkt.clouddn.com/student.less")
+    link(rel="stylesheet/less", type="text/css", href="http://p926bp4cr.bkt.clouddn.com/about.less")
+    link(rel="stylesheet", href="http://p926bp4cr.bkt.clouddn.com/jquery-rebox.css")
+    link(rel="stylesheet", href="http://p926bp4cr.bkt.clouddn.com/component.css")
+    script(src="https://code.jquery.com/jquery-3.3.1.min.js")
+    script(src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.5.3/less.min.js")
+    script(src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js")
     script(src="http://api.map.baidu.com/api?v=3.0&ak=LHHYeG3yQFQdUMNRDU5wfWHcy6YTR93p")
-    script(src="cssIndex.js")
   body
     // header
     include includes/header

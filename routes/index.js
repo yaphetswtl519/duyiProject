@@ -9,6 +9,8 @@ router.get('/', (req, res, next) => {
     indexData = JSON.parse(indexData);
     res.render('index', {
       title: 'DUYI',
+      keywords: '渡一教育_渡一前端培训_渡一教育官网',
+      description: '',
       studentInfo: indexData.student,
       teacherInfo: indexData.teacher,
       cooperationInfo: indexData.cooperation
