@@ -27,6 +27,10 @@ html {
         a:link {
             text-decoration: none;
         }
+        @font-face {
+            font-family: STX;
+            src: url(http://p926bp4cr.bkt.clouddn.com/STXIHEI.TTF);
+        }
         @media (max-width: 1200px) {
             .duyi-footer {
                 height: 572px!important;
@@ -247,7 +251,10 @@ html {
                 }
                 .duyi-footer-categories {  
                     font-size: 16px;
-                    color: #fff;              
+                    color: #fff;
+                    p {
+                        font-family: STX;
+                    }      
                     ul {
                         li {
                             display: block;
@@ -271,7 +278,6 @@ html {
                 }
             }
             .duyi-copyright {
-                font-family: STX;
                 height: 82px;
                 line-height: 82px;
                 text-align: center;
