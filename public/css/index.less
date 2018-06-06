@@ -101,7 +101,6 @@ html {
                             display: inline-block;
                             padding: 0 15px;
                             color: #fff;
-                            font-family: PingFangM;
                             cursor: pointer;
                             span {
                                 font-size: 16px;
@@ -451,7 +450,6 @@ html {
                         .duyi-tencent-w {
                             padding-top: 40px;
                             font-size: 72px;
-                            font-family: PingFangH;
                             span {
                                 font-size: 72px;
                                 color: yellow;
@@ -462,7 +460,6 @@ html {
                             font-size: 20px;
                             height: 65px;
                             span {
-                                font-family: PingFangM;
                                 position: absolute;
                                 display: inline-block;
                                 left: 300px;
@@ -470,7 +467,6 @@ html {
                         } 
                     }
                     .duyi-tencent-detail {
-                        font-family: PingFangM;
                         font-size: 17px;
                         line-height: 30px;
                     }
@@ -479,14 +475,12 @@ html {
                     .duyi-tencent-certification {
                         width: 100%;
                         text-align: center;
-                        background-position: 500px 0;
-                        .duyi-tencent-detail {
-                            padding: 0 290px!important;
-                        }
+                        background: none;
                         .duyi-tencent-au {
                             span {
-                                font-family: PingFangM;
-                                left: 550px!important;
+                                left: 50%!important;
+                                top: 50%!important;
+                                transform: translate(-50%, -50%)!important;
                             }
                         }
                     }
@@ -496,24 +490,26 @@ html {
                         margin-top: 20px!important;
                     }
                 }
-                @media (max-width: 990px) {
-                    .duyi-tencent-certification {
-                        background-position: 400px 0;
-                        .duyi-tencent-au {
-                            span {
-                                left: 440px!important;
-                            }
-                        }
-                    }
-                }
+                // @media (max-width: 990px) {
+                //     .duyi-tencent-certification {
+                //         .duyi-tencent-au {
+                //             span {
+                //                 left: 440px!important;
+                //             }
+                //         }
+                //     }
+                // }
                 @media (max-width: 768px) {
                     .duyi-tencent-certification {
-                        background-position: 650px 0;
-                        .duyi-tencent-au {
-                            span {
-                                left: 710px!important;
-                            }
+                        // background-position: 650px 0;
+                        .duyi-tencent-detail {
+                            padding: 0 290px!important;
                         }
+                        // .duyi-tencent-au {
+                        //     span {
+                        //         left: 710px!important;
+                        //     }
+                        // }
                     }
                 }
                 .duyi-tencent-photo {
@@ -600,7 +596,6 @@ html {
                                 margin-top: 55px;
                                 transform: translateZ(0);
                                 p:nth-child(1) {
-                                    font-family: PingFangM;
                                     font-size: 24px;
                                     color: #222;
                                     letter-spacing: .1em;
@@ -611,7 +606,6 @@ html {
                                     }
                                 }
                                 p:nth-child(2) {
-                                    font-family: PingFangM;
                                     font-size: 12px;
                                     line-height: 18px;
                                     color: #666;
